@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+*.p8
+credentials*.json
+creds*.json
+service-account*.json
+*_secrets.*
+*.secret
+.htpasswd
+node_modules/
+.DS_Store
+Thumbs.db
